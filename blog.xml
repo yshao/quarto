@@ -616,7 +616,7 @@ deprecated. It might return a CRS with a non-EPSG compliant axis order.</code></
 <span id="cb13-12"><span class="fu" style="color: #4758AB;">print</span>(end_time <span class="sc" style="color: #5E5E5E;">-</span> start_time)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>Time difference of 1.598011 secs</code></pre>
+<pre><code>Time difference of 1.440534 secs</code></pre>
 </div>
 </div>
 </div>
@@ -638,7 +638,7 @@ deprecated. It might return a CRS with a non-EPSG compliant axis order.</code></
 <span id="cb15-12"><span class="fu" style="color: #4758AB;">print</span>(end_time <span class="sc" style="color: #5E5E5E;">-</span> start_time)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>Time difference of 3.813036 secs</code></pre>
+<pre><code>Time difference of 3.626035 secs</code></pre>
 </div>
 </div>
 </div>
@@ -660,7 +660,7 @@ deprecated. It might return a CRS with a non-EPSG compliant axis order.</code></
 <span id="cb17-12"><span class="fu" style="color: #4758AB;">print</span>(end_time <span class="sc" style="color: #5E5E5E;">-</span> start_time)</span></code></pre></div>
 </details>
 <div class="cell-output cell-output-stdout">
-<pre><code>Time difference of 0.03387594 secs</code></pre>
+<pre><code>Time difference of 0.02900004 secs</code></pre>
 </div>
 </div>
 </div>
