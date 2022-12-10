@@ -1,0 +1,56 @@
+---
+title: "Yuping Shao"
+description: "Methods in Computer Vision, Data Science and Biomedical Informatics"
+page-layout: full
+image: /social-card.jpg
+resources:
+    - "social-card.jpg"
+---
+
+::: {.column-page-inset}
+::: {.column-page-inset-left}
+I am a PhD student at VISLab at the Data Science Research Network at Worcester Polytechnic Institute (WPI) in Worcester, MA.
+
+I previously worked on the Clinical Data Animation Center (CDAC) team at Mass. General Hospital (MGH) in Boston.
+
+My research focuses on the intersection of computer vision and neuro/biomedical informatics. I work a lot on experimental design and I think hard about how experimentation can be better and more efficient. I’m also interested in better applying the machinery of machine learning to observational causal inference.
+
+I’m interested in optimization on the fundamental problems of computer vision and machine learning.
+:::
+
+<div class="column-margin column-container">
+![](headshot.jpg){.rounded}
+</div>
+:::
+
+{{< pagebreak >}}
+
+::: {.column-page-inset .text-center}
+```{=html}
+<a class="btn btn-outline-dark", href="https://twitter.com/DrewDim" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-twitter" role='img' aria-label='Twitter'></i>
+</a>
+
+<a class="btn btn-outline-dark", href="https://github.com/ddimmery" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-github" role='img' aria-label='Github'></i>
+</a>
+
+<a class="btn btn-outline-dark", href="https://www.linkedin.com/in/drew-dimmery/" target="_blank" rel="noopener noreferrer">
+    <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i>
+</a>
+
+<a class="btn btn-outline-dark", href="https://scholar.google.com/citations?user=qMfnm48AAAAJ" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-google-scholar" role='img' aria-label='Google Scholar'></i>
+</a>
+
+<a class="btn btn-outline-dark", href="https://arxiv.org/a/dimmery_d_1.html" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-arxiv" role='img' aria-label='arXiv'></i>
+</a>
+
+<a class="btn btn-outline-dark", href="mailto:pddimmery@gmail.com" target="_blank" rel="noopener noreferrer">
+    <i class="ai bi-envelope" role='img' aria-label='email'></i>
+</a>
+```
+:::
+
+
